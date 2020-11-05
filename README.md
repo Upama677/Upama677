@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Felegantexaltedasiaticmouflon&psig=AOvVaw0YlGrpYe4FwxEqtYJGGif1&ust=1604677285938000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCM9vDe6-wCFQAAAAAdAAAAABAI" alt="Upama677" /></p>
+<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Felegantexaltedasiaticmouflon&psig=AOvVaw0YlGrpYe4FwxEqtYJGGif1&ust=1604677285938000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCM9vDe6-wCFQAAAAAdAAAAABAI"></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=k..." alt="Upama677" /></p>
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
 <h3 align="center">A girl, hungry to learn😌 😍 🥰 👩‍💻</h3>
