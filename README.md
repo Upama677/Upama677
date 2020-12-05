@@ -1,4 +1,4 @@
-<h1 align="center">[![MasterHead](https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276)](https://chaltidutta.github.io)</h1>
+<h1 align="center"><img src="https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276" /></h1>
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
 <h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h>
 
