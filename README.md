@@ -4,7 +4,7 @@ I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wiki
 
 I work with the following languages and technologies.☁️🚀
 
-### Programming
+### Programming Language
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/C_%28programming_language%29" target="_blank" >
     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/c.gif"  height="90" />
@@ -40,17 +40,7 @@ I work with the following languages and technologies.☁️🚀
   </a>
  </p>
   
-### Database
-  
- <p float="left">
-  <a href="https://www.mysql.com/" target="_blank" >
-     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/sql.gif"  height="90" />&nbsp;&nbsp;
-  </a
-    <a href="https://www.sqlite.org/fileformat2.html" target="_blank" >
-     <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/sqlite.gif"  height="90" />&nbsp;&nbsp;
-  </a
- 
-</p>
+
 
 ### Platforms
   
@@ -73,10 +63,10 @@ I work with the following languages and technologies.☁️🚀
 </p>
 
 #   
-<a href="https://github.com/aayushakrrana/github-readme-stats">
+<a href="https://github.com/chaltidutta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushakrrana&show_icons=true&include_all_commits=true&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" alt="Aayush's github stats" />
 </a>
-<a href="https://github.com/aayushakrrana/github-readme-stats">
+<a href="https://github.com/chaltidutta/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushakrrana&layout=compact&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" />
 </a>
 
