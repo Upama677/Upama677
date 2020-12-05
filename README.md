@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276" width="1000" height="200" /></h1>
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
-<h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h>
+<h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h1>
 
 I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. <img src="https://thumbs.gfycat.com/GraveAptGrosbeak.webp"  height="15" />
 
