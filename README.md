@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000)](https://chaltidutta.github.io)
+[![MasterHead](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000 height="200")](https://chaltidutta.github.io)
 
 # Hi there            <img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" />
 
