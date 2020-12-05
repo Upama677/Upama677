@@ -1,6 +1,6 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201026180510/20201026_180315.gif)](https://khushboogoel01.github.io)
-
-# Hi there <img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" />
+[![MasterHead](https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276)](https://chaltidutta.github.io)
+<h1 align="center">Hi 👋, I'm Upama Dutta</h1>
+<h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h>
 
 I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. <img src="https://thumbs.gfycat.com/GraveAptGrosbeak.webp"  height="15" />
 
