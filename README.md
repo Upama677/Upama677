@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
 <h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h1>
 
-I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. <img src="https://thumbs.gfycat.com/GraveAptGrosbeak.webp"  height="15" />
+<p align="center">I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. <img src="https://thumbs.gfycat.com/GraveAptGrosbeak.webp"  height="15" />
 
 I work with the following languages and technologies.☁️🚀
 
@@ -103,4 +103,4 @@ I work with the following languages and technologies.☁️🚀
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaltidutta&show_icons=true&locale=en" alt="chaltidutta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaltidutta&" alt="chaltidutta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaltidutta&" alt="chaltidutta" /></p></p>
