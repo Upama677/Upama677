@@ -1,4 +1,4 @@
-# Hi there <img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" />
+# Hi there            <img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" />
 
 I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. <img src="https://thumbs.gfycat.com/GraveAptGrosbeak.webp"  height="15" />
 
@@ -63,14 +63,7 @@ I work with the following languages and technologies.☁️🚀
 </p>
 
 #   
-<a href="https://github.com/chaltidutta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushakrrana&show_icons=true&include_all_commits=true&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" alt="Aayush's github stats" />
-</a>
-<a href="https://github.com/chaltidutta/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushakrrana&layout=compact&title_color=00AEFF&icon_color=2DDE98&text_color=ffffff&bg_color=050F2C" />
-</a>
 
-#
 ### 📫 Reach me out -
   <a href="https://www.linkedin.com/in/upama-dutta-she-her-879341192/" target="_blank" >
    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/linkedin.png"  />&nbsp;&nbsp;
