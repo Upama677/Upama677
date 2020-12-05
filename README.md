@@ -1,4 +1,4 @@
-<img scr="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1000" height="100" width="1000" />
+<img scr="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" height="100" width="1000" />
 
 # Hi there            <img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" />
 
