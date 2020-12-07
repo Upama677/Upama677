@@ -1,15 +1,14 @@
+<p border="5px"
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
-<h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h1>
+<h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h1></p>
 
-I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. <img src="https://thumbs.gfycat.com/GraveAptGrosbeak.webp"  height="15" />
 
-I work with the following languages and technologies.☁️🚀
 
 
 
 #   
 
-###<p align="center"> 📫 Reach me out -
+<p align="center"> Reach me out -
   <a href="https://www.linkedin.com/in/upama-dutta-she-her-879341192/" target="_blank" >
    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/.png/linkedin.png"  />&nbsp;&nbsp;
   </a><a href="https://twitter.com/Upama677" target="_blank" >
