@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
 <h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h1></p>
 
-<p align="center"> I work on :- <br> <img src="https://content.techgig.com/thumb/msid-76964423,width-860,resizemode-4/4-Old-programming-languages-that-are-here-to-stay.jpg?265855" height="200px" width="1000">
+<p align="center"> I work on :- <br> <img src="https://content.techgig.com/thumb/msid-76964423,width-860,resizemode-4/4-Old-programming-languages-that-are-here-to-stay.jpg?265855" height="300px" width="1100">
 
 
 
