@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/78/2d/8a/782d8a4346ab154282ec2e8dbb826e00.gif" width="1000" height="200" /></h1>
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
 <h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h1>
 
