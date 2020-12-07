@@ -1,4 +1,4 @@
-<p border="5px"
+<p border="5px solid black">
 <h1 align="center">Hi 👋, I'm Upama Dutta</h1>
 <h1 align="center"><img src="https://thumbs.gfycat.com/ChubbyBreakableDuiker.webp"  height="60" /></h1></p>
 
