@@ -5,63 +5,7 @@ I am Upama, a passionate and creative developer from [🇮🇳 ](https://en.wiki
 
 I work with the following languages and technologies.☁️🚀
 
-### Programming Language
-<p float="left">
-  <a href="https://en.wikipedia.org/wiki/C_%28programming_language%29" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/c.gif"  height="90" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/cpp.gif"  height="90" /> 
-  </a>
-  <a href="https://www.python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/python.gif"  height="90" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/java.gif"  height="90" />
-  </a>
- </p>
-  
-### Web Development
-  
- <p float="left">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/html.gif"  height="90" />
-  </a> 
-  <a href="https://www.w3.org/TR/CSS2/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/css.gif"  height="90" />
-  </a>
-   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/jss.gif"  height="90" />
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/boots.gif"  height="90" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/react.gif"  height="90" />
-  </a>
- </p>
-  
 
-
-### Platforms
-  
- <p float="left">
-  <a href="http://www.codeblocks.org/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/codeblock.gif"  height="90" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/anaconda.gif"  height="90" />
-  </a>&nbsp;&nbsp;
-  <a href="http://netbeans.org/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/netbean.gif"  height="90" />
-  </a>
-   <a href="https://code.visualstudio.com/" target="_blank" >
-  <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/vscode.gif"  height="90" />
-  </a>
-   <a href="https://git-scm.com/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/aayushakrrana/aayushakrrana/master/templates/git.gif"  height="90" />
-  </a>
-</p>
 
 #   
 
